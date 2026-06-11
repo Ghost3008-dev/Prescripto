@@ -67,6 +67,8 @@ Prescripto is a full-stack web application designed to make healthcare more acce
 
 ## Getting Started
 
+To set up and run this project locally:
+
 ### Prerequisites
 - Node.js v18+
 - MongoDB (local or Atlas)
