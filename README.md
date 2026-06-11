@@ -111,24 +111,5 @@ cd ../frontend
 npm run dev
 ```
 
----
 
-## Project Structure
 
-```
-prescripto/
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   └── server.js
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── context/
-│   │   └── App.jsx
-│   └── index.html
-└── README.md
-```
