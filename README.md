@@ -60,7 +60,6 @@ Prescripto is a full-stack web application designed to make healthcare more acce
 
 ## Payment Methods
 
-- Cash — pay at the clinic
 - Stripe — card payments
 - Razorpay — UPI and Indian payment options
 
