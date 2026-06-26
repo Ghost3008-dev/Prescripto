@@ -1,6 +1,6 @@
-# Prescripto - Doctor Appointment Web App
+# KnowYourMeds - Doctor Appointment Web App
 
-Prescripto is a full-stack web application designed to make healthcare more accessible by simplifying the process of booking doctor appointments. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+KnowYourMeds is a full-stack web application designed to make healthcare more accessible by simplifying the process of booking doctor appointments. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 **Live Demo:** https://prescripto-sepia-delta.vercel.app/
 
@@ -49,7 +49,7 @@ Prescripto is a full-stack web application designed to make healthcare more acce
 
 - **Home** — Search doctors by specialty, view top doctors
 - **All Doctors** — Filter doctors by specialty
-- **About** — Vision, mission, and why choose Prescripto
+- **About** — Vision, mission, and why choose KnowYourMeds
 - **Contact** — Office address, contact details, job opportunities
 - **Doctor Appointment** — Book by date, time, and payment method
 - **User Profile** — View and edit personal details and appointments

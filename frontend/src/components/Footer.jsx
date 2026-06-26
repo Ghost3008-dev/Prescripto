@@ -8,7 +8,7 @@ const Footer = () => {
 
         <div>
           <img className='mb-5 w-40' src={assets.logo} alt="" />
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Prescripto is a smart doctor appointment platform that helps patients book consultations easily and enables doctors to manage their schedules efficiently, making healthcare more accessible and hassle-free.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>KnowYourMeds is a smart doctor appointment platform that helps patients book consultations easily and enables doctors to manage their schedules efficiently, making healthcare more accessible and hassle-free.</p>
         </div>
 
         <div>
@@ -25,7 +25,7 @@ const Footer = () => {
           <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-2 text-gray-600'>
             <li>+91 7703852300</li>
-            <li>prescripto.aryan@gmail.com</li>
+            <li>knowyourmeds.aryan@gmail.com</li>
           </ul>
         </div>
 
@@ -33,7 +33,7 @@ const Footer = () => {
 
       <div>
         <hr />
-        <p className='py-5 text-sm text-center'>Copyright 2026 @ Prescripto.com - All Right Reserved.</p>
+        <p className='py-5 text-sm text-center'>Copyright 2026 @ KnowYourMeds.com - All Right Reserved.</p>
       </div>
 
     </div>
