@@ -7,7 +7,7 @@ const Footer = () => {
       <div className='flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10  mt-40 text-sm'>
 
         <div>
-          <img className='mb-5 w-40' src={assets.logo} alt="" />
+          <p className='mb-5 text-2xl font-bold text-primary'>KnowYourMeds</p>
           <p className='w-full md:w-2/3 text-gray-600 leading-6'>KnowYourMeds is a smart doctor appointment platform that helps patients book consultations easily and enables doctors to manage their schedules efficiently, making healthcare more accessible and hassle-free.</p>
         </div>
 
